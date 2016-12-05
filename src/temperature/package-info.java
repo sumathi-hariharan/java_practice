@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author Sumathi
- *
- */
-package temperature;
